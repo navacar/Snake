@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/ABC">
+        <file>images/black.jpg</file>
+        <file>images/glaza.jpg</file>
+        <file>images/glaza1.jpg</file>
+        <file>images/glaza2.jpg</file>
+        <file>images/glaza3.jpg</file>
+        <file>images/green.jpg</file>
+        <file>images/j10.gif</file>
+        <file>images/red.jpg</file>
+    </qresource>
+</RCC>
